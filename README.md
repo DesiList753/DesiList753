@@ -11,11 +11,6 @@
 ## Habilidades
 
 - **Lenguajes de Programación:** C++, Python, Java.
-- **Tecnologías:** HTML, CSS, JavaScript, Git.
-- **Frameworks y Bibliotecas:** [Listar aquí, si aplicable].
-
-## Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+- **Tecnologías:** HTML, CSS.
 
 ¡Gracias por visitar mi perfil!
